@@ -1,7 +1,7 @@
 # hm6
-https://github.com/ananacounicorniy/hm6/blob/master/Снимок.PNG
-https://github.com/ananacounicorniy/hm6/blob/master/Снимок1.PNG
-https://github.com/ananacounicorniy/hm6/blob/master/Снимок2.PNG
+(https://github.com/ananacounicorniy/hm6/blob/master/Снимок.PNG)
+(https://github.com/ananacounicorniy/hm6/blob/master/Снимок1.PNG)
+(https://github.com/ananacounicorniy/hm6/blob/master/Снимок2.PNG)
 ## Мои рассуждения.
 Согласно словарю синонимов, "holiday" и "vacation" являются синонимами. Чтобы выяснить какое из них присуще британскому английскому, а какое американскому, обратимся к Ngrams. На графике можно видеть 4 кривых: 2 из них относятся к американской версии, 2 к британской. Если сравнивать частоту употребления слов "holiday" и "vacation" в британском корпусе, то надо отметить, что "holiday" значительно чаще употребляется, чем слово "vacation". Если же мы обратимся к американскому корпусу, то мы увидим, что в 1926 году эти слова использовались с одинаковой частотностью, однако потом слово "vacation" стало лидировать (перед 1926г. ситуация была обратная). Можно сделать вывод, что в английском языке в 2000 году слово "holiday" чаще использовалось англичанами, а "vacation" было характерно для амеиканского английского.
 ## Задание 2.
